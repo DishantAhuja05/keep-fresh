@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ExpiryGuard",
+  "description": "A smart household inventory tracker that helps reduce waste by tracking expiry dates, suggesting meals, and managing household maintenance tasks.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
